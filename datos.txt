@@ -1,0 +1,3 @@
+usuario bd: systrans_tienda
+systrans_root
+Fhmedina2022$
